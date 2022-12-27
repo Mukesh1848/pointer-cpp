@@ -70,3 +70,7 @@ int main() {
     
     return 0;
 }
+
+
+
+for some other MCQs visite pls this link - :    https://www.codingninjas.com/codestudio/problem-lists/top-pointers-practice-questions-c-and-cpp?practice_topic[]=C%2B%2B%20Pointers
